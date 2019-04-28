@@ -1,0 +1,12 @@
+[submodule "AtomVM"]
+	path = AtomVM
+	url = https://github.com/bettio/AtomVM.git
+[submodule "crosstool-NG"]
+	path = crosstool-NG
+	url = https://github.com/espressif/crosstool-NG
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "micropython"]
+	path = micropython
+	url = https://github.com/micropython/micropython.git
